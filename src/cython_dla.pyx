@@ -83,7 +83,7 @@ while reached_end == 0:
     while particle_attached == 0:
 
         # Neighboring fields
-        # TODO: not completely correct yet
+        # TODO: minor offsets for some values
         x_plus = (x+1-lower_bound) % (2*r_int) + lower_bound
         x_minus = (x-1-lower_bound) % (2*r_int) + lower_bound
         y_plus = (y+1-lower_bound) % (2*r_int) + lower_bound
