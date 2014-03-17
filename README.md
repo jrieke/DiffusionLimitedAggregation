@@ -12,4 +12,4 @@ Run src/run.py to start. Requires Python 3.3, NumPy, Cython and VPython.
 <br><br>
 Simulation inside a cube of edge length 400:
 <br><br>
-<img url="/pictures n=400/1.png" />
+<img url="/pictures n = 400/1.png" />
