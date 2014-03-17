@@ -1,7 +1,7 @@
 DiffusionLimitedAggregation
 ===========================
 
-Simulation of 3D DLA occurs in many situations, e. g. cluster formation through diffusion using Cython, NumPy and VPython.<br>
+Simulation of 3D cluster formation through diffusion using Cython, NumPy and VPython.<br>
 Diffusion limited aggregation (DLA) is a process whereby diffusive particles attach to each other and form highly fractal clusters (<a href="http://en.wikipedia.org/wiki/Diffusion-limited_aggregation">Wikipedia</a>). 
 DLA occurs in many diffusion-controlled systems, e. g. at the formation of snow flakes. <br>
 <br>
