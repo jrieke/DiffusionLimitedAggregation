@@ -10,8 +10,9 @@ The alogrithm uses Cython (a Python package allowing C functionality inside Pyth
 <br>
 Run src/run.py to start. Requires Python 3.3, NumPy, Cython and VPython.
 <br><br>
-Simulation inside a cube of edge length 400 (various zoom levels):
+Simulation inside a cube of edge length 400 (various zoom levels, colors indicate particle order):
 <br><br>
 <img src="/pictures%20n%20=%20400/1.png" height=300px>
 <img src="/pictures%20n%20=%20400/4.png" height=300px>
 <img src="/pictures%20n%20=%20400/5.png" height=300px>
+a href=
