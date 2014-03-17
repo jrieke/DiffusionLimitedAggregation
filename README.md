@@ -15,4 +15,3 @@ Simulation inside a cube of edge length 400 (various zoom levels, colors indicat
 <img src="/pictures%20n%20=%20400/1.png" height=300px>
 <img src="/pictures%20n%20=%20400/4.png" height=300px>
 <img src="/pictures%20n%20=%20400/5.png" height=300px>
-a href=
